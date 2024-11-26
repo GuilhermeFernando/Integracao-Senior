@@ -1,0 +1,10 @@
+E:\IntegracaoSenior\IntegracaoSenior\bin\Debug\IntegracaoSenior.exe.config
+E:\IntegracaoSenior\IntegracaoSenior\bin\Debug\IntegracaoSenior.exe
+E:\IntegracaoSenior\IntegracaoSenior\bin\Debug\IntegracaoSenior.pdb
+E:\IntegracaoSenior\IntegracaoSenior\obj\Debug\IntegracaoSenior.csproj.AssemblyReference.cache
+E:\IntegracaoSenior\IntegracaoSenior\obj\Debug\IntegracaoSenior.Properties.Resources.resources
+E:\IntegracaoSenior\IntegracaoSenior\obj\Debug\IntegracaoSenior.csproj.GenerateResource.cache
+E:\IntegracaoSenior\IntegracaoSenior\obj\Debug\IntegracaoSenior.csproj.CoreCompileInputs.cache
+E:\IntegracaoSenior\IntegracaoSenior\obj\Debug\IntegracaoSenior.exe
+E:\IntegracaoSenior\IntegracaoSenior\obj\Debug\IntegracaoSenior.pdb
+E:\IntegracaoSenior\IntegracaoSenior\obj\Debug\IntegracaoSenior.lbl_CodBase.resources
