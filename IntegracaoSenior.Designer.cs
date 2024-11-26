@@ -30,10 +30,10 @@
         {
             this.bt_Sair = new System.Windows.Forms.Button();
             this.bt_Reiniciar = new System.Windows.Forms.Button();
-            this.button1 = new System.Windows.Forms.Button();
+            this.bt_ConectarBanco = new System.Windows.Forms.Button();
+            this.txt_StatusBanco = new System.Windows.Forms.TextBox();
+            this.bt_CodBase = new System.Windows.Forms.Button();
             this.txt_CodBase = new System.Windows.Forms.TextBox();
-            this.btn_Conectar = new System.Windows.Forms.Button();
-            this.lbl_Status = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
             // bt_Sair
@@ -56,52 +56,54 @@
             this.bt_Reiniciar.UseVisualStyleBackColor = true;
             this.bt_Reiniciar.Click += new System.EventHandler(this.bt_Reiniciar_Click);
             // 
-            // button1
+            // bt_ConectarBanco
             // 
-            this.button1.Location = new System.Drawing.Point(12, 138);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(176, 23);
-            this.button1.TabIndex = 2;
-            this.button1.Text = "Insira Codigo Base SAP";
-            this.button1.UseVisualStyleBackColor = true;
+            this.bt_ConectarBanco.Location = new System.Drawing.Point(13, 12);
+            this.bt_ConectarBanco.Name = "bt_ConectarBanco";
+            this.bt_ConectarBanco.Size = new System.Drawing.Size(86, 23);
+            this.bt_ConectarBanco.TabIndex = 2;
+            this.bt_ConectarBanco.Text = "Conectar Banco de Dados";
+            this.bt_ConectarBanco.UseVisualStyleBackColor = true;
+            this.bt_ConectarBanco.Click += new System.EventHandler(this.bt_ConectarBanco_Click);
+            // 
+            // txt_StatusBanco
+            // 
+            this.txt_StatusBanco.Location = new System.Drawing.Point(105, 14);
+            this.txt_StatusBanco.MaximumSize = new System.Drawing.Size(300, 2);
+            this.txt_StatusBanco.Name = "txt_StatusBanco";
+            this.txt_StatusBanco.Size = new System.Drawing.Size(167, 20);
+            this.txt_StatusBanco.TabIndex = 3;
+            // 
+            // bt_CodBase
+            // 
+            this.bt_CodBase.Location = new System.Drawing.Point(13, 82);
+            this.bt_CodBase.Name = "bt_CodBase";
+            this.bt_CodBase.Size = new System.Drawing.Size(86, 23);
+            this.bt_CodBase.TabIndex = 4;
+            this.bt_CodBase.Text = "Codigo Base";
+            this.bt_CodBase.UseVisualStyleBackColor = true;
+            this.bt_CodBase.Click += new System.EventHandler(this.bt_CodBase_Click);
             // 
             // txt_CodBase
             // 
-            this.txt_CodBase.Location = new System.Drawing.Point(204, 138);
+            this.txt_CodBase.Location = new System.Drawing.Point(105, 84);
             this.txt_CodBase.Name = "txt_CodBase";
-            this.txt_CodBase.Size = new System.Drawing.Size(100, 20);
-            this.txt_CodBase.TabIndex = 3;
-            // 
-            // btn_Conectar
-            // 
-            this.btn_Conectar.Location = new System.Drawing.Point(35, 15);
-            this.btn_Conectar.Name = "btn_Conectar";
-            this.btn_Conectar.Size = new System.Drawing.Size(132, 23);
-            this.btn_Conectar.TabIndex = 4;
-            this.btn_Conectar.Text = "Conectar Banco";
-            this.btn_Conectar.UseVisualStyleBackColor = true;
-            this.btn_Conectar.Click += new System.EventHandler(this.button2_Click);
-            // 
-            // lbl_Status
-            // 
-            this.lbl_Status.Location = new System.Drawing.Point(173, 15);
-            this.lbl_Status.Name = "lbl_Status";
-            this.lbl_Status.Size = new System.Drawing.Size(161, 20);
-            this.lbl_Status.TabIndex = 5;
+            this.txt_CodBase.Size = new System.Drawing.Size(167, 20);
+            this.txt_CodBase.TabIndex = 5;
             // 
             // lbl_CodBase
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.lbl_Status);
-            this.Controls.Add(this.btn_Conectar);
             this.Controls.Add(this.txt_CodBase);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.bt_CodBase);
+            this.Controls.Add(this.txt_StatusBanco);
+            this.Controls.Add(this.bt_ConectarBanco);
             this.Controls.Add(this.bt_Reiniciar);
             this.Controls.Add(this.bt_Sair);
             this.Name = "lbl_CodBase";
-            this.Text = "Form1";
+            this.Text = "Integracao Senior";
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -111,10 +113,10 @@
 
         private System.Windows.Forms.Button bt_Sair;
         private System.Windows.Forms.Button bt_Reiniciar;
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button bt_ConectarBanco;
+        private System.Windows.Forms.TextBox txt_StatusBanco;
+        private System.Windows.Forms.Button bt_CodBase;
         private System.Windows.Forms.TextBox txt_CodBase;
-        private System.Windows.Forms.Button btn_Conectar;
-        private System.Windows.Forms.TextBox lbl_Status;
     }
 }
 

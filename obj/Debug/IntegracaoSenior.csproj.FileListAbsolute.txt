@@ -8,3 +8,13 @@ E:\IntegracaoSenior\IntegracaoSenior\obj\Debug\IntegracaoSenior.csproj.CoreCompi
 E:\IntegracaoSenior\IntegracaoSenior\obj\Debug\IntegracaoSenior.exe
 E:\IntegracaoSenior\IntegracaoSenior\obj\Debug\IntegracaoSenior.pdb
 E:\IntegracaoSenior\IntegracaoSenior\obj\Debug\IntegracaoSenior.lbl_CodBase.resources
+C:\Users\Guilherme.machado\Documents\Integracao-Senior\bin\Debug\IntegracaoSenior.exe.config
+C:\Users\Guilherme.machado\Documents\Integracao-Senior\bin\Debug\IntegracaoSenior.exe
+C:\Users\Guilherme.machado\Documents\Integracao-Senior\bin\Debug\IntegracaoSenior.pdb
+C:\Users\Guilherme.machado\Documents\Integracao-Senior\obj\Debug\IntegracaoSenior.csproj.AssemblyReference.cache
+C:\Users\Guilherme.machado\Documents\Integracao-Senior\obj\Debug\IntegracaoSenior.lbl_CodBase.resources
+C:\Users\Guilherme.machado\Documents\Integracao-Senior\obj\Debug\IntegracaoSenior.Properties.Resources.resources
+C:\Users\Guilherme.machado\Documents\Integracao-Senior\obj\Debug\IntegracaoSenior.csproj.GenerateResource.cache
+C:\Users\Guilherme.machado\Documents\Integracao-Senior\obj\Debug\IntegracaoSenior.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme.machado\Documents\Integracao-Senior\obj\Debug\IntegracaoSenior.exe
+C:\Users\Guilherme.machado\Documents\Integracao-Senior\obj\Debug\IntegracaoSenior.pdb
